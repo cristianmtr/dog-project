@@ -1,5 +1,7 @@
 # CNNs for Dog Breed Identification
 
+See [notebook](/dog_app.ipynb)
+
 Project part of the Udacity Deep Learning Nanodegree.
 
 Learned to use CNNs (Convolutional Neural Networks) to identify among 133 dog breeds from ImageNet corpus.
